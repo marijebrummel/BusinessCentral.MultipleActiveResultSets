@@ -1,0 +1,25 @@
+{
+  "id": "109ef6b3-9d66-432d-81ef-17dd40ff464b",
+  "name": "Test Performance",
+  "publisher": "Marije Brummel",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 60100,
+      "to": 60100
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "3.2"
+}
