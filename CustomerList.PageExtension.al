@@ -79,7 +79,7 @@ pageextension 60100 CustomerListExt extends "Customer List"
 
                     GLEntTemp.FindSet();
                     repeat
-                        GLAcc.SetRange("No.", GLEnt."G/L Account No.");
+                        GLAcc.SetRange("No.", GLEntTemp."G/L Account No.");
                         GLAcc.FindSet();
                         Sleep(1000);
                     until (GLEntTemp.Next() = 0) or (i = 100);
